@@ -26,3 +26,8 @@ dotnet ef migrations remove
 
 
 PM> .\efbundle.exe --connection "Server=(localdb)\MSSQLLocalDB;Database=Productions"
+
+
+
+### Links
+- [Build (and publish) a .dacpac (SQL Server database project) with .NET Core](https://erikej.github.io/efcore/2020/05/11/ssdt-dacpac-netcore.html)
